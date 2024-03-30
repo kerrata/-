@@ -1,0 +1,27 @@
+
+  body{
+    background-image:url('background.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+  }
+  .ckot {
+    position: absolute;
+    top: 110px;
+    left: 300px;
+    width: 1550px;
+    height: 850px;
+    }
+  .vvod {
+    position: absolute;
+    top: 795px;
+    left: 1000px;
+    width: 500px;
+    height: 60px;
+    }
+    .knop {
+      position: absolute;
+      top: 795px;
+      left: 1525px;
+      width: 100px;
+      height: 60px;
+      }
